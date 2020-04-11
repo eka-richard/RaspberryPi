@@ -1,1 +1,1 @@
-# RaspberryPi
+This is a folder for RaspberryPi development created due to lack of IDE in RaspberryPi.
