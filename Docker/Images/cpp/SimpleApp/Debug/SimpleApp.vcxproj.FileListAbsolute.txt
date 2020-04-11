@@ -1,0 +1,2 @@
+D:\Development\RaspberryPi\Docker\Images\cpp\SimpleApp\Debug\SimpleApp.exe
+D:\Development\RaspberryPi\Docker\Images\cpp\SimpleApp\Debug\SimpleApp.pdb

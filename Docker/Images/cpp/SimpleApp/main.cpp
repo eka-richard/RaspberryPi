@@ -1,9 +1,8 @@
 #include "main.h"
 
-using namespace std;
-
 int main()
 {
-	cout << "Some text";
+	printf("The number is: %d", NUMBER);
+
 	return 0;
 }
