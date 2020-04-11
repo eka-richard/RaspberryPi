@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Development\RaspberryPi\Docker\Volumes\SimpleScript\venv"
+VIRTUAL_ENV="D:\Development\RaspberryPi\Docker\Images\Python\SimpleScript\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
