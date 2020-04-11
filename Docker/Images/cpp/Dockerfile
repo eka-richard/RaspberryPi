@@ -1,4 +1,4 @@
-FROM gcc:latest
+FROM gcc:4.9
 
 WORKDIR /usr/src
 
