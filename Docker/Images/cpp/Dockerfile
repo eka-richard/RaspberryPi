@@ -1,9 +1,9 @@
-FROM gcc:4.9
+FROM gcc
 
 WORKDIR /usr/src
 
 COPY SimpleApp/*.cpp SimpleApp/*.h ./
 
-run g++ -o SimpleApp main.cpp
+run g++ -std=c++11 -o SimpleApp main.cpp
 
 CMD ./SimpleApp
