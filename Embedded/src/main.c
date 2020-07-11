@@ -1,8 +1,9 @@
 #include "stdio.h"
+#include "pthread.h"
 
-main()
+int main()
 {
-    printf("Something");
-
+    printf("Something else");
+    
     return 0;
 }
