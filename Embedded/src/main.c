@@ -1,3 +1,8 @@
 #include "stdio.h"
 
-printf("Something");
+main()
+{
+    printf("Something");
+
+    return 0;
+}
